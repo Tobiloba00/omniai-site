@@ -1,0 +1,33 @@
+<svg viewBox="0 0 280 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gold gradient for the icon -->
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Dark background (optional - remove if using on dark backgrounds) -->
+  <rect width="280" height="60" fill="#374151" rx="8"/>
+  
+  <!-- Icon: Omni symbol - interconnected circles representing "all/everything" -->
+  <g transform="translate(15, 15)">
+    <!-- Central core -->
+    <circle cx="15" cy="15" r="3" fill="url(#goldGradient)"/>
+    <!-- Orbiting elements representing "all directions/everything" -->
+    <circle cx="15" cy="6" r="2.5" fill="url(#goldGradient)" opacity="0.7"/>
+    <circle cx="24" cy="15" r="2.5" fill="url(#goldGradient)" opacity="0.7"/>
+    <circle cx="15" cy="24" r="2.5" fill="url(#goldGradient)" opacity="0.7"/>
+    <circle cx="6" cy="15" r="2.5" fill="url(#goldGradient)" opacity="0.7"/>
+    <!-- Connecting lines showing unity -->
+    <line x1="15" y1="15" x2="15" y2="6" stroke="url(#goldGradient)" stroke-width="1.5" opacity="0.4"/>
+    <line x1="15" y1="15" x2="24" y2="15" stroke="url(#goldGradient)" stroke-width="1.5" opacity="0.4"/>
+    <line x1="15" y1="15" x2="15" y2="24" stroke="url(#goldGradient)" stroke-width="1.5" opacity="0.4"/>
+    <line x1="15" y1="15" x2="6" y2="15" stroke="url(#goldGradient)" stroke-width="1.5" opacity="0.4"/>
+  </g>
+  
+  <!-- Text: OmniAi -->
+  <text x="50" y="38" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="24" font-weight="500" letter-spacing="-0.5px">
+    <tspan fill="#ffffff">O</tspan><tspan fill="#9ca3af">mni</tspan><tspan fill="#ffffff">A</tspan><tspan fill="#9ca3af">i</tspan>
+  </text>
+</svg>
