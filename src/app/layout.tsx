@@ -23,9 +23,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-        <head>
-      <link rel="icon" href="/favicon.png" type="image/png" />
-    </head>
+       <head>
+  <link rel="icon" href="/favicon.png" type="image/png" />
+</head>
       <body className={`${inter.variable} ${poppins.variable} ${firaCode.variable} font-sans antialiased`} suppressHydrationWarning={true}>
         <ThemeProvider
           attribute="class"
