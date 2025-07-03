@@ -31,9 +31,9 @@ export function Footer() {
             <Link href="/" className="mb-4 inline-block">
               <Logo lightText />
             </Link>
-            <p className="text-sm text-gray-400 max-w-xs">
-              Custom-built AI agents that work 24/7 — so you don’t have to.
-            </p>
+           <p className="text-sm text-gray-400 max-w-xs">
+  Automate Intelligently. Scale Effortlessly.
+</p>
           </div>
 
           <div className="md:col-span-2 lg:col-span-2">
