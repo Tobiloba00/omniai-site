@@ -67,7 +67,7 @@ export function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-gray-800 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} Tobiloba Olujimi. All rights reserved.</p>
+          <p>© 2025 Omniaiteams. All rights reserved.</p>
         </div>
       </div>
     </footer>
