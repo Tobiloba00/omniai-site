@@ -28,7 +28,7 @@ export default function ContactPage() {
                 <CardDescription>Fill out the form below and we'll get back to you as soon as possible.</CardDescription>
               </CardHeader>
               <CardContent className="px-6 pt-0 pb-10">
-                <form action="https://formsubmit.co/omniaiteamsl@gmail.com" method="POST" className="space-y-8">
+                <form action="https://formsubmit.co/omniaiteams@gmail.com" method="POST" className="space-y-8">
                    <input type="hidden" name="_captcha" value="false" />
                    <input type="hidden" name="_next" value="https://omniai.vercel.app/thank-you" />
                    
