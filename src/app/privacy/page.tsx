@@ -60,7 +60,7 @@ export default function PrivacyPolicyPage() {
           <li>Request corrections</li>
           <li>Ask us to delete your data (unless required to keep it for legal or operational reasons)</li>
         </ul>
-        <p className="mt-4">To make a request, email: <a href="mailto:Olujimitobilobaa@gmail.com" className="font-semibold text-primary break-all hover:underline">Olujimitobilobaa@gmail.com</a></p>
+        <p className="mt-4">To make a request, email: <a href="mailto:omniaiteams@gmail.com" className="font-semibold text-primary break-all hover:underline">omniaiteams@gmail.com</a></p>
       </>
     },
     {
@@ -80,7 +80,7 @@ export default function PrivacyPolicyPage() {
     },
     {
       title: "9. Contact Us",
-      content: <p>If you have any questions or concerns about this Privacy Policy, reach out: <a href="mailto:Olujimitobilobaa@gmail.com" className="font-semibold text-primary break-all hover:underline">Olujimitobilobaa@gmail.com</a></p>
+      content: <p>If you have any questions or concerns about this Privacy Policy, reach out: <a href="mailto:omniaiteams@gmail.com" className="font-semibold text-primary break-all hover:underline">omniaiteams@gmail.com</a></p>
     }
   ];
 
@@ -90,7 +90,7 @@ export default function PrivacyPolicyPage() {
         <article className="space-y-8 text-foreground">
           <header className="text-center">
             <h1 className="text-3xl md:text-5xl font-poppins font-bold tracking-tight mb-2">Privacy Policy</h1>
-            <p className="text-muted-foreground">Effective Date: July 30, 2024</p>
+            <p className="text-muted-foreground">Effective Date: June 30, 2025</p>
           </header>
 
           <div className="text-muted-foreground bg-card p-6 md:p-8 rounded-2xl border shadow-sm">
