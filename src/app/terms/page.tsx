@@ -63,7 +63,7 @@ export default function TermsOfUsePage() {
     },
     {
       title: "10. Contact",
-      content: <p>If you have questions about these Terms, email us at: <a href="mailto:Olujimitobilobaa@gmail.com" className="font-semibold text-primary break-all hover:underline">Olujimitobilobaa@gmail.com</a></p>
+      content: <p>If you have questions about these Terms, email us at: <a href="mailto:omniaiteams@gmail.com" className="font-semibold text-primary break-all hover:underline">omniaiteams@gmail.com</a></p>
     },
   ];
 
@@ -73,7 +73,7 @@ export default function TermsOfUsePage() {
         <article className="space-y-8 text-foreground">
           <header className="text-center">
             <h1 className="text-3xl md:text-5xl font-poppins font-bold tracking-tight mb-2">Terms of Use</h1>
-            <p className="text-muted-foreground">Effective Date: July 30, 2024</p>
+            <p className="text-muted-foreground">Effective Date: June 30, 2025</p>
           </header>
 
           <div className="text-muted-foreground bg-card p-6 md:p-8 rounded-2xl border shadow-sm">
