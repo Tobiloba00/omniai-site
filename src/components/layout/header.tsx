@@ -15,8 +15,10 @@ import Logo from "../logo";
 const navItems = [
   { name: "Services", href: "/services" },
   { name: "Blog", href: "/blog" },
+  { name: "Founders", href: "/founders" },
   { name: "Contact", href: "/contact" },
 ];
+
 
 export function Header() {
   const pathname = usePathname();
